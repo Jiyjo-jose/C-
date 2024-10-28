@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
 //namespace C_test.task_1
 //{
-
-
-//   public class WeeklyPayCalculator
+//    public class WeeklyPayCalculator
 //    {
 //        public static void Main()
 //        {
